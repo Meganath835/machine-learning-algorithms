@@ -30,6 +30,5 @@ Both models were effective after balancing. The XGBoost model is recommended for
 
 ## Files in this Repository
 *   `/data/your_original_dataset.csv`: The raw, unprocessed source data.
-*   
 *   `/results/feature_importance.png`: A graph showing the top predictors of attrition.
 *   `Untitled3.ipynb`: The Jupyter Notebook containing all the code for data cleaning, analysis, modeling, and evaluation.
